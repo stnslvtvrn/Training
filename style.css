@@ -3,7 +3,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   border: 1px solid black;
-  padding: 0 50px 0px 50px ;
+  padding: 0 50px 5px 50px ;
 }
 
 .sender-column {
